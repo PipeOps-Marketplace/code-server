@@ -2,8 +2,6 @@
 
 A collection of one-click buttons and scripts for deploying [code-server](https://github.com/cdr/code-server) to various cloud hosting platforms. The fastest way to get a code-server environment! ☁️
 
-[![Deploy on PipeOps](https://pub-a1fbf367a4cd458487cfa3f29154ac93.r2.dev/Default.png)](#)
-
 
 |                                                                                                                 | Name              | Type          | Lowest-Price Plan             | Deploy                                                  |
 | --------------------------------------------------------------------------------------------------------------- | ----------------- | ------------- | ----------------------------- | ------------------------------------------------------- |
